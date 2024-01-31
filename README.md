@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+Created a weather app using a public api to receive weather updates from certain places and areas.
+User can search for a city/town and get information such as the Tempreture and the condition
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
